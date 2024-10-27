@@ -1,4 +1,4 @@
 #this script is for linux/wsl only if you want to use it in windows you have to edit the ip variable to ipconfig not ifconfig then it should work
-#you net to install net-tools with sudo apt install net-tools
+#you need to install net-tools with sudo apt install net-tools
 #it is password protected but you can change the password with nano mldip.sh and then change the if code == mldip to if code == youpassword
 #you also need to enter your name in the name variable a bit more down
